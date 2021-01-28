@@ -1,0 +1,1222 @@
+{
+  "theme_name": "Supersoft Core",
+  "selected_preset": 0,
+  "field_groups": [
+    {
+      "name": "Header"
+    },
+    {
+      "name": "Typography"
+    },
+    {
+      "name": "Buttons"
+    },
+    {
+      "name": "Products"
+    },
+    {
+      "name": "Footer"
+    }
+  ],
+  "theme_presets": [
+    {
+      "isCustom": 0,
+      "name": "Default",
+      "fields": [
+        {
+          "label": "Navigation color",
+          "name": "nav_color",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 0
+        },
+        {
+          "label": "Navigation text color",
+          "name": "nav_text_color",
+          "type": 2,
+          "value": "fff",
+          "group": 0
+        },
+        {
+          "label": "Header Icons color",
+          "name": "header_icons_color",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 0
+        },
+        {
+          "label": "Headings color",
+          "name": "headings_color",
+          "type": 2,
+          "value": "000000",
+          "group": 1
+        },
+        {
+          "label": "Body text color",
+          "name": "body_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 1
+        },
+        {
+          "label": "Base font size",
+          "name": "base_font_size",
+          "type": 3,
+          "value": 14,
+          "options": [
+            {
+              "text": "14px",
+              "value": 14
+            },
+            {
+              "text": "15px",
+              "value": 15
+            },
+            {
+              "text": "16px",
+              "value": 16
+            },
+            {
+              "text": "17px",
+              "value": 17
+            },
+            {
+              "text": "18px",
+              "value": 18
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Heading base size",
+          "name": "heading_base_size",
+          "type": 3,
+          "value": 30,
+          "options": [
+            {
+              "text": "24px",
+              "value": 24
+            },
+            {
+              "text": "25px",
+              "value": 25
+            },
+            {
+              "text": "26px",
+              "value": 26
+            },
+            {
+              "text": "27px",
+              "value": 27
+            },
+            {
+              "text": "28px",
+              "value": 28
+            },
+            {
+              "text": "29px",
+              "value": 29
+            },
+            {
+              "text": "30px",
+              "value": 30
+            },
+            {
+              "text": "31px",
+              "value": 31
+            },
+            {
+              "text": "32px",
+              "value": 32
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Primary button color",
+          "name": "btn_color",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 2
+        },
+        {
+          "label": "Primary button border",
+          "name": "btn_border",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 2
+        },
+        {
+          "label": "Primary button text color",
+          "name": "btn_text_color",
+          "type": 2,
+          "value": "fff",
+          "group": 2
+        },
+        {
+          "label": "Secondary button color",
+          "name": "btn2_color",
+          "type": 2,
+          "value": "FFFFFF",
+          "group": 2
+        },
+        {
+          "label": "Secondary button border",
+          "name": "btn2_border",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+        {
+          "label": "Secondary button text color",
+          "name": "btn2_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+		{
+          "label": "Add cart button",
+          "name": "add_cart_btn",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 2
+        },
+        {
+          "label": "Sale text",
+          "name": "sale_text",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 3
+        },
+        {
+          "label": "Rating Stars color",
+          "name": "stars_color",
+          "type": 2,
+          "value": "ffd800",
+          "group": 3
+        },
+        {
+          "label": "Footer color",
+          "name": "footer_color",
+          "type": 2,
+          "value": "ffffff",
+          "group": 4
+        },
+        {
+          "label": "Footer text color",
+          "name": "footer_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 4
+        },
+        {
+          "label": "Footer icons color",
+          "name": "footer_icons_color",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 4
+        }
+      ]
+    },
+
+    {
+      "isCustom": 0,
+      "name": "Sunflower",
+      "fields": [
+        {
+          "label": "Navigation color",
+          "name": "nav_color",
+          "type": 2,
+          "value": "F9A602",
+          "group": 0
+        },
+        {
+          "label": "Navigation text color",
+          "name": "nav_text_color",
+          "type": 2,
+          "value": "fff",
+          "group": 0
+        },
+        {
+          "label": "Header Icons color",
+          "name": "header_icons_color",
+          "type": 2,
+          "value": "F9A602",
+          "group": 0
+        },
+        {
+          "label": "Headings color",
+          "name": "headings_color",
+          "type": 2,
+          "value": "000",
+          "group": 1
+        },
+        {
+          "label": "Body text color",
+          "name": "body_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 1
+        },
+        {
+          "label": "Base font size",
+          "name": "base_font_size",
+          "type": 3,
+          "value": 14,
+          "options": [
+            {
+              "text": "14px",
+              "value": 14
+            },
+            {
+              "text": "15px",
+              "value": 15
+            },
+            {
+              "text": "16px",
+              "value": 16
+            },
+            {
+              "text": "17px",
+              "value": 17
+            },
+            {
+              "text": "18px",
+              "value": 18
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Heading base size",
+          "name": "heading_base_size",
+          "type": 3,
+          "value": 30,
+          "options": [
+            {
+              "text": "24px",
+              "value": 24
+            },
+            {
+              "text": "25px",
+              "value": 25
+            },
+            {
+              "text": "26px",
+              "value": 26
+            },
+            {
+              "text": "27px",
+              "value": 27
+            },
+            {
+              "text": "28px",
+              "value": 28
+            },
+            {
+              "text": "29px",
+              "value": 29
+            },
+            {
+              "text": "30px",
+              "value": 30
+            },
+            {
+              "text": "31px",
+              "value": 31
+            },
+            {
+              "text": "32px",
+              "value": 32
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Primary button color",
+          "name": "btn_color",
+          "type": 2,
+          "value": "F9A602",
+          "group": 2
+        },
+        {
+          "label": "Primary button border",
+          "name": "btn_border",
+          "type": 2,
+          "value": "F9A602",
+          "group": 2
+        },
+        {
+          "label": "Primary button text color",
+          "name": "btn_text_color",
+          "type": 2,
+          "value": "fff",
+          "group": 2
+        },
+        {
+          "label": "Secondary button color",
+          "name": "btn2_color",
+          "type": 2,
+          "value": "FFFFFF",
+          "group": 2
+        },
+        {
+          "label": "Secondary button border",
+          "name": "btn2_border",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+        {
+          "label": "Secondary button text color",
+          "name": "btn2_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+		{
+          "label": "Add cart button",
+          "name": "add_cart_btn",
+          "type": 2,
+          "value": "F9A602",
+          "group": 2
+        },
+        {
+          "label": "Sale text",
+          "name": "sale_text",
+          "type": 2,
+          "value": "F9A602",
+          "group": 3
+        },
+        {
+          "label": "Rating Stars color",
+          "name": "stars_color",
+          "type": 2,
+          "value": "F9A602",
+          "group": 3
+        },
+        {
+          "label": "Footer color",
+          "name": "footer_color",
+          "type": 2,
+          "value": "ffffff",
+          "group": 4
+        },
+        {
+          "label": "Footer text color",
+          "name": "footer_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 4
+        },
+        {
+          "label": "Footer icons color",
+          "name": "footer_icons_color",
+          "type": 2,
+          "value": "F9A602",
+          "group": 4
+        }
+      ]
+    },
+
+    {
+      "isCustom": 0,
+      "name": "Punch",
+      "fields": [
+        {
+          "label": "Navigation color",
+          "name": "nav_color",
+          "type": 2,
+          "value": "F15278",
+          "group": 0
+        },
+        {
+          "label": "Navigation text color",
+          "name": "nav_text_color",
+          "type": 2,
+          "value": "fff",
+          "group": 0
+        },
+        {
+          "label": "Header Icons color",
+          "name": "header_icons_color",
+          "type": 2,
+          "value": "F15278",
+          "group": 0
+        },
+        {
+          "label": "Headings color",
+          "name": "headings_color",
+          "type": 2,
+          "value": "000",
+          "group": 1
+        },
+        {
+          "label": "Body text color",
+          "name": "body_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 1
+        },
+        {
+          "label": "Base font size",
+          "name": "base_font_size",
+          "type": 3,
+          "value": 14,
+          "options": [
+            {
+              "text": "14px",
+              "value": 14
+            },
+            {
+              "text": "15px",
+              "value": 15
+            },
+            {
+              "text": "16px",
+              "value": 16
+            },
+            {
+              "text": "17px",
+              "value": 17
+            },
+            {
+              "text": "18px",
+              "value": 18
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Heading base size",
+          "name": "heading_base_size",
+          "type": 3,
+          "value": 30,
+          "options": [
+            {
+              "text": "24px",
+              "value": 24
+            },
+            {
+              "text": "25px",
+              "value": 25
+            },
+            {
+              "text": "26px",
+              "value": 26
+            },
+            {
+              "text": "27px",
+              "value": 27
+            },
+            {
+              "text": "28px",
+              "value": 28
+            },
+            {
+              "text": "29px",
+              "value": 29
+            },
+            {
+              "text": "30px",
+              "value": 30
+            },
+            {
+              "text": "31px",
+              "value": 31
+            },
+            {
+              "text": "32px",
+              "value": 32
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Primary button color",
+          "name": "btn_color",
+          "type": 2,
+          "value": "F15278",
+          "group": 2
+        },
+        {
+          "label": "Primary button border",
+          "name": "btn_border",
+          "type": 2,
+          "value": "F15278",
+          "group": 2
+        },
+        {
+          "label": "Primary button text color",
+          "name": "btn_text_color",
+          "type": 2,
+          "value": "FFFFFF",
+          "group": 2
+        },
+        {
+          "label": "Secondary button color",
+          "name": "btn2_color",
+          "type": 2,
+          "value": "FFFFFF",
+          "group": 2
+        },
+        {
+          "label": "Secondary button border",
+          "name": "btn2_border",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+		{
+          "label": "Add cart button",
+          "name": "add_cart_btn",
+          "type": 2,
+          "value": "F15278",
+          "group": 2
+        },
+        {
+          "label": "Secondary button text color",
+          "name": "btn2_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+        {
+          "label": "Sale text",
+          "name": "sale_text",
+          "type": 2,
+          "value": "F15278",
+          "group": 3
+        },
+        {
+          "label": "Rating Stars color",
+          "name": "stars_color",
+          "type": 2,
+          "value": "F15278",
+          "group": 3
+        },
+        {
+          "label": "Footer color",
+          "name": "footer_color",
+          "type": 2,
+          "value": "ffffff",
+          "group": 4
+        },
+        {
+          "label": "Footer text color",
+          "name": "footer_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 4
+        },
+        {
+          "label": "Footer icons color",
+          "name": "footer_icons_color",
+          "type": 2,
+          "value": "F15278",
+          "group": 4
+        }
+      ]
+    },
+
+    {
+      "isCustom": 0,
+      "name": "Rasin",
+      "fields": [
+        {
+          "label": "Navigation color",
+          "name": "nav_color",
+          "type": 2,
+          "value": "311432",
+          "group": 0
+        },
+        {
+          "label": "Navigation text color",
+          "name": "nav_text_color",
+          "type": 2,
+          "value": "fff",
+          "group": 0
+        },
+        {
+          "label": "Header Icons color",
+          "name": "header_icons_color",
+          "type": 2,
+          "value": "311432",
+          "group": 0
+        },
+        {
+          "label": "Headings color",
+          "name": "headings_color",
+          "type": 2,
+          "value": "000",
+          "group": 1
+        },
+        {
+          "label": "Body text color",
+          "name": "body_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 1
+        },
+        {
+          "label": "Base font size",
+          "name": "base_font_size",
+          "type": 3,
+          "value": 14,
+          "options": [
+            {
+              "text": "14px",
+              "value": 14
+            },
+            {
+              "text": "15px",
+              "value": 15
+            },
+            {
+              "text": "16px",
+              "value": 16
+            },
+            {
+              "text": "17px",
+              "value": 17
+            },
+            {
+              "text": "18px",
+              "value": 18
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Heading base size",
+          "name": "heading_base_size",
+          "type": 3,
+          "value": 30,
+          "options": [
+            {
+              "text": "24px",
+              "value": 24
+            },
+            {
+              "text": "25px",
+              "value": 25
+            },
+            {
+              "text": "26px",
+              "value": 26
+            },
+            {
+              "text": "27px",
+              "value": 27
+            },
+            {
+              "text": "28px",
+              "value": 28
+            },
+            {
+              "text": "29px",
+              "value": 29
+            },
+            {
+              "text": "30px",
+              "value": 30
+            },
+            {
+              "text": "31px",
+              "value": 31
+            },
+            {
+              "text": "32px",
+              "value": 32
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Primary button color",
+          "name": "btn_color",
+          "type": 2,
+          "value": "311432",
+          "group": 2
+        },
+        {
+          "label": "Primary button border",
+          "name": "btn_border",
+          "type": 2,
+          "value": "311432",
+          "group": 2
+        },
+        {
+          "label": "Primary button text color",
+          "name": "btn_text_color",
+          "type": 2,
+          "value": "FFFFFF",
+          "group": 2
+        },
+        {
+          "label": "Secondary button color",
+          "name": "btn2_color",
+          "type": 2,
+          "value": "FFFFFF",
+          "group": 2
+        },
+        {
+          "label": "Secondary button border",
+          "name": "btn2_border",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+        {
+          "label": "Secondary button text color",
+          "name": "btn2_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+		{
+          "label": "Add cart button",
+          "name": "add_cart_btn",
+          "type": 2,
+          "value": "311432",
+          "group": 2
+        },
+        {
+          "label": "Sale text",
+          "name": "sale_text",
+          "type": 2,
+          "value": "311432",
+          "group": 3
+        },
+        {
+          "label": "Rating Stars color",
+          "name": "stars_color",
+          "type": 2,
+          "value": "311432",
+          "group": 3
+        },
+        {
+          "label": "Footer color",
+          "name": "footer_color",
+          "type": 2,
+          "value": "ffffff",
+          "group": 4
+        },
+        {
+          "label": "Footer text color",
+          "name": "footer_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 4
+        },
+        {
+          "label": "Footer icons color",
+          "name": "footer_icons_color",
+          "type": 2,
+          "value": "311432",
+          "group": 4
+        }
+      ]
+    },
+
+    {
+      "isCustom": 0,
+      "name": "Indigo",
+      "fields": [
+        {
+          "label": "Navigation color",
+          "name": "nav_color",
+          "type": 2,
+          "value": "281E5D",
+          "group": 0
+        },
+        {
+          "label": "Navigation text color",
+          "name": "nav_text_color",
+          "type": 2,
+          "value": "fff",
+          "group": 0
+        },
+        {
+          "label": "Header Icons color",
+          "name": "header_icons_color",
+          "type": 2,
+          "value": "281E5D",
+          "group": 0
+        },
+        {
+          "label": "Headings color",
+          "name": "headings_color",
+          "type": 2,
+          "value": "000",
+          "group": 1
+        },
+        {
+          "label": "Body text color",
+          "name": "body_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 1
+        },
+        {
+          "label": "Base font size",
+          "name": "base_font_size",
+          "type": 3,
+          "value": 14,
+          "options": [
+            {
+              "text": "14px",
+              "value": 14
+            },
+            {
+              "text": "15px",
+              "value": 15
+            },
+            {
+              "text": "16px",
+              "value": 16
+            },
+            {
+              "text": "17px",
+              "value": 17
+            },
+            {
+              "text": "18px",
+              "value": 18
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Heading base size",
+          "name": "heading_base_size",
+          "type": 3,
+          "value": 30,
+          "options": [
+            {
+              "text": "24px",
+              "value": 24
+            },
+            {
+              "text": "25px",
+              "value": 25
+            },
+            {
+              "text": "26px",
+              "value": 26
+            },
+            {
+              "text": "27px",
+              "value": 27
+            },
+            {
+              "text": "28px",
+              "value": 28
+            },
+            {
+              "text": "29px",
+              "value": 29
+            },
+            {
+              "text": "30px",
+              "value": 30
+            },
+            {
+              "text": "31px",
+              "value": 31
+            },
+            {
+              "text": "32px",
+              "value": 32
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Primary button color",
+          "name": "btn_color",
+          "type": 2,
+          "value": "281E5D",
+          "group": 2
+        },
+        {
+          "label": "Primary button border",
+          "name": "btn_border",
+          "type": 2,
+          "value": "281E5D",
+          "group": 2
+        },
+        {
+          "label": "Primary button text color",
+          "name": "btn_text_color",
+          "type": 2,
+          "value": "FFFFFF",
+          "group": 2
+        },
+        {
+          "label": "Secondary button color",
+          "name": "btn2_color",
+          "type": 2,
+          "value": "FFFFFF",
+          "group": 2
+        },
+        {
+          "label": "Secondary button border",
+          "name": "btn2_border",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+        {
+          "label": "Secondary button text color",
+          "name": "btn2_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+		{
+          "label": "Add cart button",
+          "name": "add_cart_btn",
+          "type": 2,
+          "value": "281E5D",
+          "group": 2
+        },
+        {
+          "label": "Sale text",
+          "name": "sale_text",
+          "type": 2,
+          "value": "281E5D",
+          "group": 3
+        },
+        {
+          "label": "Rating Stars color",
+          "name": "stars_color",
+          "type": 2,
+          "value": "281E5D",
+          "group": 3
+        },
+        {
+          "label": "Footer color",
+          "name": "footer_color",
+          "type": 2,
+          "value": "ffffff",
+          "group": 4
+        },
+        {
+          "label": "Footer text color",
+          "name": "footer_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 4
+        },
+        {
+          "label": "Footer icons color",
+          "name": "footer_icons_color",
+          "type": 2,
+          "value": "281E5D",
+          "group": 4
+        }
+      ]
+    },
+
+    {
+      "isCustom": 1,
+      "name": "Custom",
+      "fields": [
+        {
+          "label": "Navigation color",
+          "name": "nav_color",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 0
+        },
+        {
+          "label": "Navigation text color",
+          "name": "nav_text_color",
+          "type": 2,
+          "value": "fff",
+          "group": 0
+        },
+        {
+          "label": "Header Icons color",
+          "name": "header_icons_color",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 0
+        },
+        {
+          "label": "Headings color",
+          "name": "headings_color",
+          "type": 2,
+          "value": "000000",
+          "group": 1
+        },
+        {
+          "label": "Body text color",
+          "name": "body_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 1
+        },
+        {
+          "label": "Base font size",
+          "name": "base_font_size",
+          "type": 3,
+          "value": 14,
+          "options": [
+            {
+              "text": "14px",
+              "value": 14
+            },
+            {
+              "text": "15px",
+              "value": 15
+            },
+            {
+              "text": "16px",
+              "value": 16
+            },
+            {
+              "text": "17px",
+              "value": 17
+            },
+            {
+              "text": "18px",
+              "value": 18
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Heading base size",
+          "name": "heading_base_size",
+          "type": 3,
+          "value": 30,
+          "options": [
+            {
+              "text": "24px",
+              "value": 24
+            },
+            {
+              "text": "25px",
+              "value": 25
+            },
+            {
+              "text": "26px",
+              "value": 26
+            },
+            {
+              "text": "27px",
+              "value": 27
+            },
+            {
+              "text": "28px",
+              "value": 28
+            },
+            {
+              "text": "29px",
+              "value": 29
+            },
+            {
+              "text": "30px",
+              "value": 30
+            },
+            {
+              "text": "31px",
+              "value": 31
+            },
+            {
+              "text": "32px",
+              "value": 32
+            }
+          ],
+          "group": 1
+        },
+        {
+          "label": "Primary button color",
+          "name": "btn_color",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 2
+        },
+        {
+          "label": "Primary button border",
+          "name": "btn_border",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 2
+        },
+        {
+          "label": "Primary button text color",
+          "name": "btn_text_color",
+          "type": 2,
+          "value": "fff",
+          "group": 2
+        },
+        {
+          "label": "Secondary button color",
+          "name": "btn2_color",
+          "type": 2,
+          "value": "FFFFFF",
+          "group": 2
+        },
+        {
+          "label": "Secondary button border",
+          "name": "btn2_border",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+        {
+          "label": "Secondary button text color",
+          "name": "btn2_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 2
+        },
+		{
+          "label": "Add cart button",
+          "name": "add_cart_btn",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 2
+        },
+        {
+          "label": "Sale text",
+          "name": "sale_text",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 3
+        },
+        {
+          "label": "Rating Stars color",
+          "name": "stars_color",
+          "type": 2,
+          "value": "ffd800",
+          "group": 3
+        },
+        {
+          "label": "Footer color",
+          "name": "footer_color",
+          "type": 2,
+          "value": "ffffff",
+          "group": 4
+        },
+        {
+          "label": "Footer text color",
+          "name": "footer_text_color",
+          "type": 2,
+          "value": "000000",
+          "group": 4
+        },
+        {
+          "label": "Footer icons color",
+          "name": "footer_icons_color",
+          "type": 2,
+          "value": "6fc6eb",
+          "group": 4
+        }
+      ]
+    }
+  ]
+}
